@@ -22,4 +22,3 @@ def speak_to_grandma(phase)
   else
     return "NO, NOT SINCE 1938!"
   end
-end
